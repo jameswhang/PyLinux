@@ -1,0 +1,18 @@
+#include <stdio.h>
+#define r *(char*)
+#define b if(
+#define t *(int*)
+#define k else
+#define u while(
+#define g av()
+#define c ax(
+#define f ==
+#define aj =calloc(1,99999)
+#define j ()
+#define O return 
+#define l a)
+#define A int 
+#define n 0)
+#define o aw(
+#define p 1)
+#define q s)
