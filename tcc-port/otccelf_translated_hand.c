@@ -623,10 +623,10 @@ main(d, a) {
 		printf("usage: otccelf file.c outfile\n");
 		return 0;
 	}
-	D = strcpy(Q calloc(1, 99999), " int if else while break return for define main ")+48;
-	i = G calloc(1, 99999);
-	v = K calloc(1, 99999);
-	T calloc(1, 99999);
+	D = strcpy(Q = calloc(1, 99999), " int if else while break return for define main ")+48;
+	i = G = calloc(1, 99999);
+	v = K = calloc(1, 99999);
+	T = calloc(1, 99999);
 	a = a + 4;
 	ak = fopen(*(int*)a, "r");
 	y = 134512640 - G;
